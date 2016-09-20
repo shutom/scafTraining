@@ -1,0 +1,15 @@
+current directory: /home/misaki/git_demo/scafTraining/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+/usr/bin/ruby2.3 -r ./siteconf20160920-19696-90sb3t.rb extconf.rb
+creating Makefile
+
+current directory: /home/misaki/git_demo/scafTraining/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/misaki/git_demo/scafTraining/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/misaki/git_demo/scafTraining/vendor/bundle/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20160920-19696-1aq2ojo
